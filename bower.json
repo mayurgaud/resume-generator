@@ -1,0 +1,25 @@
+{
+  "name": "resume-generator",
+  "description": "Resume generator using reactjs",
+  "main": "index.js",
+  "authors": [
+    "Mayur Gaud"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "reactjs",
+    "resume"
+  ],
+  "homepage": "https://github.com/mayurgaud/resume-generator",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
