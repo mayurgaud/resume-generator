@@ -51,8 +51,7 @@ class ExperienceColumn extends Component {
                                                 <li>Outsourcing / Offshoring</li>
                                                 <li>Software Life Cycle Management, LCM</li>
                                                 <li>Software Change / Configuration Management, SCCM</li>
-                                                <li><span>Project Management</span>
-                                                </li>
+                                                <li><span>Project Management</span></li>
                                             </ul>
                                         </td>
                                     </tr>
@@ -61,29 +60,40 @@ class ExperienceColumn extends Component {
                             </div>
                         </article>
                     </section>
-                    <section id="positions" className="dated_story"
-                    >
-
+                    <section id="positions" className="dated_story">
                         <header><h3 className="header-text"><span
                             className="undefined needsclick">Work History</span></h3></header>
-                        <article >
-                            <div className="article-headings"><h6
-                                className="date-range"
-                            >
-                                <span><span
-                                    className="undefined needsclick">Jun 2015</span></span><span
-                            ><span
-                                className="undefined needsclick">Present</span></span></h6></div>
-                            <div className="article-body"><h4 >
-                                <span className="undefined needsclick">Tech lead</span></h4>
-                                <div><h5 >
-                                    <span className="undefined needsclick">Ansh Systems Pvt. Ltd.</span>
-                                </h5></div>
-                                <div id="react-tinymce-5" className=" mce-content-body"><p>Successfully established and
-                                    built software engineering and development company providing solutions to a variety
-                                    of companies’ business and operational needs. Led complex software development for a
-                                    broad range of functions including invoice management systems, e-commerce, and sales
-                                    systems.</p>
+                        <article>
+                            <div className="article-headings">
+                                <h6 className="date-range">
+                                    <span>
+                                        <span className="undefined needsclick">Jun 2015</span>
+                                    </span>
+                                    <span>
+                                        <span className="undefined needsclick">Present</span>
+                                    </span>
+                                </h6>
+                            </div>
+                            <div className="article-body">
+                                <h4>
+                                    <span className="undefined needsclick">Tech lead</span>
+                                </h4>
+                                <div>
+                                    <h5>
+                                        <span className="undefined needsclick">Ansh Systems Pvt. Ltd.</span>
+                                    </h5>
+                                </div>
+                                <div id="react-tinymce-5" className=" mce-content-body">
+                                    <p>
+                                        Successfully established and
+                                        built software engineering and development company providing solutions to a
+                                        variety
+                                        of companies’ business and operational needs. Led complex software development
+                                        for a
+                                        broad range of functions including invoice management systems, e-commerce, and
+                                        sales
+                                        systems.
+                                    </p>
                                     <ul>
                                         <li>Built a solid reputation for delivering high-quality, cost-efficient
                                             technological solutions and tools driving business development and the
@@ -122,17 +132,19 @@ class ExperienceColumn extends Component {
                             </div>
                         </article>
                         <article>
-
-                            <div className="article-headings"><h6
-                                className="date-range"
-                            >
-                                <span ><span
-                                    className="undefined needsclick">Jan 2014</span></span><span
-                            ><span
-                                className="undefined needsclick">Apr 2015</span></span></h6></div>
-                            <div className="article-body"><h4 >
+                            <div className="article-headings">
+                                <h6 className="date-range">
+                                    <span>
+                                        <span className="undefined needsclick">Jan 2014</span>
+                                    </span>
+                                    <span>
+                                        <span className="undefined needsclick">Apr 2015</span>
+                                    </span>
+                                </h6>
+                            </div>
+                            <div className="article-body"><h4>
                                 <span className="undefined needsclick">Lead Developer</span></h4>
-                                <div ><h5 >
+                                <div ><h5>
                                     <span className="undefined needsclick">Splattered Ink, Murphysboro IL (U.S)</span>
                                 </h5></div>
                                 <div id="react-tinymce-6" className=" mce-content-body"><p>Selected from 400 candidates

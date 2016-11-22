@@ -25,3 +25,69 @@ html {
   color: $white;
   padding: 0% 3%;
 }
+
+.cv-container section {
+  clear: both;
+  margin-bottom: 2.5em;
+}
+
+.cv-container h3 {
+  font-weight: 700;
+  font-size: 150%;
+}
+
+.cv-container .main h3 {
+  color: #555555;
+}
+
+.cv-container section header .header-text {
+  padding: 0px 0.5em 0px 0px;
+  background: white;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-block;
+  margin: 0em 2px 0px 0px;
+  z-index: 2;
+  position: relative;
+}
+
+.cv-container .main .header-text {
+  background-color: white;
+}
+
+.cv-container section header:after {
+  content: '';
+  display: block;
+  top: 1em;
+  border-bottom: 1px solid #dedede;
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 0;
+}
+
+.cv-container .dated_story .article-headings {
+  float: left;
+  width: 18%;
+  margin-right: 1%;
+}
+
+.cv-container h6 {
+  font-size: 125%;
+  color: #555555;
+}
+
+.cv-container .dated_story .article-body {
+  float: left;
+  width: 81%;
+}
+
+.cv-container h4, .cv-container h5 {
+  font-weight: 400;
+  font-size: 125%;
+}
+
+.cv-container h5 {
+  color: #555555;
+}

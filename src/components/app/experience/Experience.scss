@@ -1,1 +1,88 @@
 @import '../../variables.scss';
+
+.main {
+  padding: 2em 3%;
+  padding-top: 0px;
+}
+
+.cv-container #summary header {
+  text-align: center;
+}
+
+.cv-container section header {
+  width: 100%;
+  margin-bottom: 2.25em;
+  text-align: left;
+}
+
+.cv-container #summary header .header-text {
+  padding: 0px 0.5em;
+}
+
+.cv-container .main .header-text {
+  background-color: white;
+}
+
+.cv-container section header .header-text {
+  padding: 0px 0.5em 0px 0px;
+  background: white;
+  /* text-align: center; */
+  vertical-align: middle;
+  display: inline-block;
+  margin: 0em 2px 0px 0px;
+  z-index: 2;
+  position: relative;
+}
+
+.cv-container .main h3 {
+  color: #555555;
+}
+
+.cv-container h3 {
+  /* font-weight: 700; */
+  font-size: 150%;
+}
+
+.cv-container #summary article {
+  margin-top: 0px;
+  text-align: center;
+  padding: 0em 1.5em;
+  font-size: 115%;
+  font-weight: 200;
+}
+
+.cv-container article {
+  clear: both;
+  margin-bottom: 1.25em;
+}
+
+.cv-editor article {
+  position: relative;
+}
+
+.cv-container table {
+  width: 100%;
+}
+
+.mce-content-body table td {
+  padding: 0em 0.5em 0.5em 0em;
+  min-width: 5em;
+  vertical-align: top;
+}
+
+.cv-container section header {
+  width: 100%;
+  margin-bottom: 2.25em;
+  text-align: left;
+}
+
+.cv-container section {
+  clear: both;
+  margin-bottom: 2.5em;
+}
+
+.cv-container section {
+  position: relative;
+  word-wrap: break-word;
+}
+

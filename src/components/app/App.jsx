@@ -7,7 +7,7 @@ class App extends Component {
 
     render() {
         return (
-            <div className="container">
+            <div className="container cv-container">
                 <div className="row">
                     <div className="col-md-4 skillColumn">
                         <SkillColumn />
