@@ -25,3 +25,29 @@
   border-radius: 100%;
   margin-top: 1px;
 }
+
+.cv-container .sidebar .competency .competency-list li.filled {
+  opacity: 1;
+}
+
+.cv-container .sidebar .competency .competency-list li {
+  opacity: 0.2;
+  background-color: white;
+}
+
+.cv-container .competency-list li.filled {
+  background-color: #425370;
+}
+
+.cv-container .competency-list li {
+  height: 1em;
+  width: 8%;
+  margin-right: 2%;
+  background-color: #cccccc;
+  -webkit-transform: skewX(-30deg);
+  -ms-transform: skewX(-30deg);
+  -moz-transform-origin: skewX(-30deg);
+  -o-transform-origin: skewX(-30deg);
+  transform: skewX(-30deg);
+  display: inline-block;
+}

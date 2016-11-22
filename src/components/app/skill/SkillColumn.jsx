@@ -9,7 +9,7 @@ class SkillColumn extends Component {
 
     render() {
         return (
-            <div className="row">
+            <div className="row sidebar">
                 <section id="profile" className="profile">
                     <article className="vcard">
                         <div className="user-thumb">
@@ -60,6 +60,18 @@ class SkillColumn extends Component {
                             </h6>
                         </div>
                         <div className="article-body competency">
+                            <ul className="competency-list">
+                                <li className="filled"/>
+                                <li className="filled"/>
+                                <li className="filled"/>
+                                <li className="filled"/>
+                                <li className="filled"/>
+                                <li className="filled"/>
+                                <li className="filled"/>
+                                <li className="filled"/>
+                                <li className=""/>
+                                <li className=""/>
+                            </ul>
                             <div id="react-tinymce-1" className=" mce-content-body">
                                 <ul>
                                     <li>Javascript (ES5/ES6)</li>
